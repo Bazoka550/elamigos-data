@@ -1,0 +1,82 @@
+{
+  "website": "ElAmigos Games",
+  "source_url": "https://elamigos.site/",
+  "last_updated": "2026-07-31",
+  "games_count": 3,
+  "games": [
+    {
+      "id": "g-001",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "version": "v1.12.3",
+      "release_date": "2024-06-21",
+      "genres": ["Action", "RPG", "Open World"],
+      "image_url": "https://elamigos.site",
+      "size": "62.4 GB",
+      "languages": ["English", "French", "German", "Arabic"],
+      "download_servers": [
+        {
+          "server_name": "Ddownload",
+          "links": [
+            "https://ddownload.com",
+            "https://ddownload.com"
+          ]
+        },
+        {
+          "server_name": "Rapidgator",
+          "links": [
+            "https://rapidgator.net",
+            "https://rapidgator.net"
+          ]
+        },
+        {
+          "server_name": "Filefactory",
+          "links": [
+            "https://filefactory.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g-002",
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "version": "v2.12 H1",
+      "release_date": "2023-12-05",
+      "genres": ["Sci-fi", "RPG", "First-Person"],
+      "image_url": "https://elamigos.site",
+      "size": "85.1 GB",
+      "languages": ["English", "Spanish", "Italian"],
+      "download_servers": [
+        {
+          "server_name": "Ddownload",
+          "links": [
+            "https://ddownload.com"
+          ]
+        },
+        {
+          "server_name": "Rapidgator",
+          "links": [
+            "https://rapidgator.net"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g-003",
+      "title": "Ghost of Tsushima: Director's Cut",
+      "version": "v1.0.4",
+      "release_date": "2024-05-16",
+      "genres": ["Action", "Adventure", "Hack and Slash"],
+      "image_url": "https://elamigos.site",
+      "size": "54.8 GB",
+      "languages": ["English", "Japanese", "Russian"],
+      "download_servers": [
+        {
+          "server_name": "Ddownload",
+          "links": [
+            "https://ddownload.com"
+          ]
+        }
+      ]
+    }
+  ]
+}
